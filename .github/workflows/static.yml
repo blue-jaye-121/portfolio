@@ -13,16 +13,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install dependencies (if applicable)
-        run: conda install sphinx
-
-      - name: Build static site
-        run: sphinx-build docs/source docs/build/html
-
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./build # Or the directory where your static site output is located
+          path: ./build/html # Or the directory where your static site output is located
 
       - name: Deploy to GitHub Pages
         id: deployment
