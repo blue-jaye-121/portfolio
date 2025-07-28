@@ -1,18 +1,29 @@
-name: Deploy Sphinx documentation to Pages
+name: Deploy Static Site to GitHub Pages
 
 on:
   push:
-    branches: [main] # branch to trigger deployment
+    branches:
+      - main # Trigger on pushes to the main branch
 
 jobs:
-  pages:
+  build-and-deploy:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    permissions:
-      pages: write
-      id-token: write
+
     steps:
-    - id: deployment
-      uses: sphinx-notes/pages@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install dependencies (if applicable)
+        run: conda install sphinx
+
+      - name: Build static site
+        run: sphinx-build docs/source docs/build/html
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./build # Or the directory where your static site output is located
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
