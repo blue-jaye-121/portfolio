@@ -11,8 +11,9 @@ About Me
 --------
 
 I am an undergraduate at North Carolina State University entering my final year of study with
-a major in meteorology and a minor in computer programming. I love crochet, knitting,
-rock climbing, coding, and sewing plushies!
+a major in meteorology and a minor in computer programming. I plan to enter a masters program
+in atmospheric science in order to persue a career as a research scientist studying
+numerical modeling and atmospheric dynamics.
 
 .. note::
     
@@ -22,3 +23,4 @@ rock climbing, coding, and sewing plushies!
     :hidden:
 
     hobbies
+    CV

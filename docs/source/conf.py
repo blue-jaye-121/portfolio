@@ -15,6 +15,7 @@ author = 'Jaye Norman'
 
 extensions = [
     'sphinx.ext.duration',
+    'sphinx_simplepdf'
 ]
 
 templates_path = ['_templates']
