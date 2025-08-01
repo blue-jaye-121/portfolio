@@ -9,6 +9,7 @@
 project = 'Portfolio'
 copyright = '2025, Jaye Norman'
 author = 'Jaye Norman'
+html_title = 'Jaye Norman\'s Portfolio'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
