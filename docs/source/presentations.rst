@@ -21,8 +21,6 @@ University
     :align: right
     :alt: Photo of Jaye in front of poster at NASEC conference
     
-
-
 --------------------------------------------------------------
 2025 NSF NCAR, UCAR, UCP, and CIRES Summer Student Conference
 --------------------------------------------------------------
