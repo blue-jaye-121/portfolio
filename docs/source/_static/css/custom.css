@@ -1,0 +1,4 @@
+html[data-theme="dark"] {
+    --pst-color-background: #024950;
+    --pst-color-surface: #003135;
+}
