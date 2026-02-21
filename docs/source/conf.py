@@ -39,7 +39,8 @@ html_context = {
     "default_mode": "dark"
 }
 html_sidebars = {
-    'academics': []
+    'academics': [],
+    'professional_devel': []
 }
 html_css_files = [
     'css/custom.css',
