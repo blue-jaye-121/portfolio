@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Portfolio'
-copyright = '2025, Jaye Norman'
+copyright = '2026, Jaye Norman'
 author = 'Jaye Norman'
 html_title = 'Jaye Norman\'s Portfolio'
 
@@ -16,7 +16,8 @@ html_title = 'Jaye Norman\'s Portfolio'
 
 extensions = [
     'sphinx.ext.duration',
-    'sphinx_simplepdf'
+    'sphinx_simplepdf',
+    'sphinxcontrib.video',
 ]
 
 templates_path = ['_templates']
@@ -37,6 +38,9 @@ html_theme_options = {
 html_context = {
     "default_mode": "dark"
 }
-# html_css_files = [
-    # 'css/custom.css',
-# ]
+html_sidebars = {
+    'academics': []
+}
+html_css_files = [
+    'css/custom.css',
+ ]
