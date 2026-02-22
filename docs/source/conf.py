@@ -40,7 +40,8 @@ html_context = {
 }
 html_sidebars = {
     'academics': [],
-    'professional_devel': []
+    'professional_devel': [], 
+    'personal_growth' : []
 }
 html_css_files = [
     'css/custom.css',

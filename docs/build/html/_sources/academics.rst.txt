@@ -1,16 +1,6 @@
 Academic Projects
 =================
 
-----------
-To Go Here
-----------
-HIE - major/minor
-Microreview
-DSA 202 Poster
-Radar Poster
-Java Project Yahtzee
-HON project
-
 -----------------------
 E 102 Honors Assignment
 -----------------------
@@ -90,3 +80,44 @@ scientific evidence.
     :height: 315
     :align: right
     :alt: Photo of Jaye and team presenting poster
+
+--------------------
+HON 300 Race Project
+--------------------
+The Death of DEI: An HBCU Perspective
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+During my Spring 2024 HON 300 (Race, Membership, and Eugenics) course, 
+I worked with my peers to create a video project documenting the perspective 
+of HBCU students on the topic of DEI policies. This was far outside of 
+anything I had done as part of a STEM course, and this project taught me 
+cultural competence, challenged my preexisting biases, and made me a more 
+well-rounded person. **Click the image below to see the final video.**
+
+.. container:: pdf-center
+
+    .. pdf-include:: _static/Race_Project_Reflection.pdf
+        :height: 700px
+        :width: 600px
+    
+.. figure:: ../photos/Honors_video.png
+    :width: 600
+    :height: 472
+    :align: center
+    :target: https://drive.google.com/file/d/1hjxbQA6hh60LmbfA8E46LU73SirFad2p/view?usp=sharing
+    
+---------------------
+DSA 202 Final Project
+---------------------
+Exploring the Impact of Growing Location on Coffee Bean Quality Scores
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Another interdisciplinary project during my time at NCSU was my DSA 202 
+(Introduction to Data Visualization) course final project. Our team - a 
+meteorologist, computer scientist, and statistician - chose to make visualizations 
+and present on the quality of coffee versus their growing locations. This project 
+increased my focus on accessibility in presentations and the role of simplicity 
+in effectively communicating data to your audience. 
+
+.. figure:: ../photos/DSA202_Poster.jpg
+    :width: 600
+    :height: 472
+    :align: center
