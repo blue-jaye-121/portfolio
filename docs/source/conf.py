@@ -41,7 +41,8 @@ html_context = {
 html_sidebars = {
     'academics': [],
     'professional_devel': [], 
-    'personal_growth' : []
+    'personal_growth' : [],
+    'about_site' : [],
 }
 html_css_files = [
     'css/custom.css',

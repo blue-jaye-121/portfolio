@@ -15,3 +15,20 @@ this experience throughout my undergraduate career.
     .. pdf-include:: _static/WISE_HIE_Reflection.pdf
         :height: 700px
         :width: 600px
+        
+------------------------------------------------
+Meteorology Major and Computer Programming Minor
+------------------------------------------------
+
+For my undergraduate studies at NCSU, I completed a meteorology 
+major in the College of Science and a computer programming minor 
+in the College of Engineering. This might not have been my original 
+plan upon entering college, but I am happy with the interdisciplinary 
+skills, including communication, that I have learned. This endeavor 
+represents a high impact experience across my entire undergraduate career.
+    
+.. container:: pdf-center
+
+    .. pdf-include:: _static/MajorMinor_HIE_Reflection.pdf
+        :height: 700px
+        :width: 600px
