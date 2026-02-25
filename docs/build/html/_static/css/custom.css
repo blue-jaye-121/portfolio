@@ -4,75 +4,51 @@
 
 html[data-theme="dark"] {
     /* Reverting Heading to a crisp, readable lavender-white */
-    --pst-color-heading: #f3e8ff;
-    --pst-color-primary: #c084fc;     
+    --pst-color-heading: #E8EEFF;
+    --pst-color-primary: #83A4FC;
+    --pst-color-background: #161A2D;
 }
 
 /* Targeting the Top Navigation Links specifically */
 .bd-header .nav-link {
-    color: #c084fc !important; /* The purple you liked from before */
-    font-weight: 600;          /* Makes the purple pop more */
+    color: #83A4FC !important;
+    font-weight: 600;        
     transition: color 0.2s ease-in-out;
 }
 
 /* Hover state: Makes it feel interactive */
 .bd-header .nav-link:hover {
-    color: #e9d5ff !important; /* Lighter lavender on hover */
+    color: #D6E1FF !important; /* Lighter lavender on hover */
     text-decoration: underline;
 }
 
 /* Active state: Shows which page you are currently on */
 .bd-header .nav-item.active > .nav-link {
-    color: #d8b4fe !important;
-    border-bottom: 2px solid #d8b4fe;
+    color: #B5C9FF !important;
+    border-bottom: 2px solid #B5C9FF;
 }
 
-/* Targeting the project title / brand name in the top left */
-.navbar-brand .brand-text {
-    color: #d8b4fe !important; /* A bright, crisp lavender-purple */
-    font-weight: 800;          /* Extra bold for a 'logo' feel */
-    letter-spacing: -0.02em;   /* Modern, tight letter spacing */
-    transition: opacity 0.2s ease;
-}
-
-/* Optional: Slight fade effect if they click the brand to go home */
-.navbar-brand:hover .brand-text {
-    color: #f3e8ff !important; /* Lightens slightly on hover */
-    text-shadow: 0 0 10px rgba(216, 180, 254, 0.3); /* Subtle glow */
+/* Ensure both 'active' and 'current' states use the blue underline */
+.bd-header .nav-item.active > .nav-link,
+.bd-header .nav-item.current > .nav-link,
+.bd-header .nav-item.hover > nav.link {
+    color: #B5C9FF !important;
+    border-bottom: 2px solid #5462F7 !important; /* Matches your header border blue */
 }
 
 /* Makes the search bar match the purple vibe */
 .bd-search .form-control {
-    border-color: #3b2d4a !important; /* Dark purple border */
+    border-color: #2D304A !important; /* Dark blue border */
 }
 
 .bd-search .form-control:focus {
-    border-color: #d8b4fe !important; /* Glows bright purple when typing */
-    box-shadow: 0 0 0 0.2rem rgba(216, 180, 254, 0.25);
-}
-
-/* This targets the actual link text in the top left 'Brand' area */
-.navbar-brand, 
-.navbar-brand :where(span, strong, b),
-.navbar-brand.navbar-brand-autolight {
-    color: #d8b4fe !important;
-    text-decoration: none !important;
-}
-
-/* If it's a simple text title without a logo, this usually does the trick */
-a.navbar-brand {
-    color: #d8b4fe !important;
-}
-
-/* Hover effect for the title */
-.navbar-brand:hover {
-    color: #f3e8ff !important;
-    filter: brightness(1.2);
+    border-color: #B5C9FF !important; /* Glows bright blue when typing */
+    box-shadow: 0 0 0 0.2rem rgba(135, 180, 254, 0.25);
 }
 
 /* 1. Change the background of the entire header */
 .bd-header {
-    background-color: #1b1129 !important; /* Deep Plum background */
-    border-bottom: 2px solid #a855f7 !important; /* Vivid purple accent line */
+    background-color: #111329 !important; /* Prussian Blue */
+    border-bottom: 2px solid #5462F7 !important; /* Electric saffire */
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3); /* Adds depth */
 }
