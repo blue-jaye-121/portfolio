@@ -15,6 +15,11 @@ a major in meteorology and a minor in computer programming. I plan to enter a gr
 in atmospheric science in order to pursue a career as a research scientist studying
 numerical modeling and atmospheric dynamics.
 
+----------------
+Connect With Me!
+----------------
+`LinkedIn <https://www.linkedin.com/in/jayenorman/>`__ 
+
 .. note::
     
     this project is under active development.
