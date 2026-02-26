@@ -20,9 +20,6 @@ Connect With Me!
 ----------------
 `LinkedIn <https://www.linkedin.com/in/jayenorman/>`__ 
 
-.. note::
-    
-    this project is under active development.
     
 .. toctree::
     :hidden:
@@ -30,4 +27,3 @@ Connect With Me!
     academics
     professional_devel
     personal_growth
-    about_site
