@@ -37,8 +37,8 @@ represents a high impact experience across my entire undergraduate career.
 Cumulative Honors Reflection
 ----------------------------
 After the three years of my undergraduate career, I reflected on my 
-xperiences that have shaped the human being I have become in this 
-umulative honors program reflection. Each of this site’s artifacts 
+experiences that have shaped the human being I have become in this 
+cumulative honors program reflection. Each of this site’s artifacts 
 are analyzed, and I comment on how each has built the path I am now 
 walking. I also conclude with my thoughts about my undergraduate 
 experience and my time in the honors program at NC State.
