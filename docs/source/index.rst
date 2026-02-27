@@ -1,7 +1,7 @@
 Hey, I'm Jaye!
 ==============
 
-.. image:: ../photos/Headshot_Jan2026_NormanJaye.jpg
+.. figure:: ../photos/Headshot_Jan2026_NormanJaye.jpg
     :width: 400
     :align: left
     :alt: Headshot of Jaye
@@ -16,6 +16,9 @@ in atmospheric science in order to pursue a career as a research scientist study
 numerical modeling and atmospheric dynamics.
 
 You can read my cumulative honors reflection `here <https://blue-jaye-121.github.io/portfolio/personal_growth.html#cumulative-honors-reflection>`_.
+
+| 
+|
 
 
 ----------------
