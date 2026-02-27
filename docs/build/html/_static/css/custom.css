@@ -31,7 +31,7 @@ html[data-theme="dark"] {
 /* Ensure both 'active' and 'current' states use the blue underline */
 .bd-header .nav-item.active > .nav-link,
 .bd-header .nav-item.current > .nav-link,
-.bd-header .nav-item.hover > nav.link {
+.bd-header .nav-item.hover > .nav-link {
     color: #B5C9FF !important;
     border-bottom: 2px solid #5462F7 !important; /* Matches your header border blue */
 }

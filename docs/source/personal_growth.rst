@@ -32,3 +32,20 @@ represents a high impact experience across my entire undergraduate career.
     .. pdf-include:: _static/MajorMinor_HIE_Reflection.pdf
         :height: 700px
         :width: 600px
+        
+----------------------------
+Cumulative Honors Reflection
+----------------------------
+After the three years of my undergraduate career, I reflected on my 
+xperiences that have shaped the human being I have become in this 
+umulative honors program reflection. Each of this site’s artifacts 
+re analyzed, and I comment on how each has built the path I am now 
+walking. I also conclude with my thoughts about my undergraduate 
+experience and my time in the honors program at NC State.
+
+    
+.. container:: pdf-center
+
+    .. pdf-include:: _static/JayeNorman_HonorsReflection.pdf
+        :height: 700px
+        :width: 600px
